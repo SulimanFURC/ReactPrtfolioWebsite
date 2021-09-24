@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Suliman",
   full_name: "Suliman Munawar Khan",
   subTitle:
-    "Website Developer and Desinger.",
+    "Website Developer and Designer.",
   resumeLink:
     "https://drive.google.com/file/d/15caSCx0pJq-fNlKBa3VAJ03zeUgWM8XI/view?usp=sharing",
   mail: "mailto:sullaimaan@gmail.com",
