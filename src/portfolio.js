@@ -9,7 +9,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello 👋.",
+  title: "Assalam O Ale Kum 👋.",
   title2: "Suliman Munawar Khan",
   logo_name: "Suliman Munawar .",
   nickname: "Suliman",
