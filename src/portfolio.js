@@ -11,7 +11,7 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Suliman Munawar Khan",
-  logo_name: "Suliman Munawar .",
+  logo_name: "Suliman Munawar",
   nickname: "Suliman",
   full_name: "Suliman Munawar Khan",
   subTitle:
@@ -278,7 +278,7 @@ const degrees = {
       logo_path: "furc.png",
       alt_name: "BSSE",
       duration: "2015 - 2019",
-      descriptions: [
+      descriptions: [ 
         "⚡ I have completed BS in Software Engineering a 4 years Bachelor degree",
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Software qulaity assurance, etc.",
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
