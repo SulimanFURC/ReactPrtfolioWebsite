@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Website Developer and Designer.",
   resumeLink:
-    "https://drive.google.com/file/d/15caSCx0pJq-fNlKBa3VAJ03zeUgWM8XI/view?usp=sharing",
+    "https://drive.google.com/file/d/1tBS1MRBQ01tuoC2zkHA0kHXFI8xjSKAC/view?usp=sharing",
   mail: "mailto:sullaimaan@gmail.com",
 };
 
