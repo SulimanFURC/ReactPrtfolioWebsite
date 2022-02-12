@@ -282,7 +282,7 @@ const degrees = {
         "⚡ I have completed BS in Software Engineering a 4 years Bachelor degree",
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Software qulaity assurance, etc.",
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Software Engineering degree. ",
+        "⚡ I have implemented several projects based on what I've learned under my Software Engineering degree. ",
       ],
       website_link: "http://fui.edu.pk/FURC/",
     },
@@ -396,11 +396,31 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Software Engineer (Angular Developer)",
+          company: "UtoR Solutions",
+          company_url: "https://www.utorsols.com/",
+          logo_path: "UtoR-logo.svg",
+          duration: "Feb 2022 - Present",
+          location: "Office ",
+          description:
+          `I am Working with clients to develop the overall look and design of a website.
+          Writing website code with programming languages such as HTML, CSS and JavaScript, Nodejs, Angular and React. Converting Figma/Xd to responsive web pages. Producing, maintaining and modifying websites and user interfaces in Reactjs and AngularJS.
+          Incorporating applications, graphics, audio and video clips into client websites
+          Creating tools that enhance the user’s website experience
+          Ensuring websites are accessible across many platforms, including laptops and
+          smartphones
+          Routinely testing websites for ease of use, speed and other quality factors
+          Fixing any website issues or bugs that arise
+          `,
+            // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+            color: "#0071C5",
+        },
+        {
           title: "Frontend Developer",
           company: "Radical Growth Solutions",
           company_url: "https://www.radicalgrowth.solutions/",
           logo_path: "rgs.png",
-          duration: "Aug 2021 - Present",
+          duration: "Aug 2021 - December 2021",
           location: "Remote Work",
           description:
           `My Responsibilities are designing prototypes for Web Applications and Mobile Devices using Figma and Adobe XD.
@@ -410,32 +430,15 @@ const experience = {
           Link the frontend with the backend effectively to deliver a better user experience.
           `,
             // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#0071C5",
+            color: "#5a900f",
         },
-        {
-          title: "Frontend Developer",
-          company: "Qrypton Design Solutions",
-          company_url: "http://www.qrypton.com/",
-          logo_path: "qrypton.svg",
-          duration: "May 2021 - Aug 2021",
-          location: "Office",
-          description:
-          `My Responsibilities are implementing websites and landing pages from concept through development.
-          Standardzing all output with a new, responsive, mobile-first approach and strategy.
-          Assessing UX and UI designs for technical feasibility.
-          Developing standard and ad hoc reports in graph formates if required.
-          Collaborating with product team members to implement new feature developments.
-          Maintenance of existing websites and web applications and fixing bugs.
-          `,
-            // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
-          color: "#5a900f",
-        },
+      
         {
           title: "Jr Web Developer",
           company: "HYCUBE Technologies",
           company_url: "https://www.hycubetech.com.pk",
           logo_path: "hycube_logo.svg",
-          duration: "Jan 2020 - May 2021",
+          duration: "Jan 2020 - Aug 2021",
           location: "Office",
           description:
           `My Responsibilites were to Developed new user-facing features using ReactJS, AngularJS, Bootstrap, and CSS
